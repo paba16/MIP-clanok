@@ -1,4 +1,0 @@
-asf
-
-gw
-git checkout nazov_vetvy afee
